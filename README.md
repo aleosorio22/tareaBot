@@ -19,4 +19,4 @@
 - Cambio de euros ![](images/cambio.png)
 - Clima ![](images/clima.png)
 - Grupal ![](images/grupal.png)
-- Otros ejemplos
+- Otros ejemplos ![](images/otros.png)
