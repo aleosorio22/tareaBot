@@ -9,6 +9,6 @@
 
 ## Tecnologías Utilizadas
 - Java
-- Telegram Bot API (images/maven.png)
+- Telegram Bot API ![](images/maven.png)
 - OpenWeatherMap API para datos meteorológicos
 - ExchangeRate-API para tasas de cambio de moneda
