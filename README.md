@@ -14,9 +14,9 @@
 - ExchangeRate-API para tasas de cambio de moneda
 
   ## Ejemplos del bot
--start ![](images/start.png)  
--info ![](images/info.png)
--cambio de euros ![](images/cambio.png)
--clima ![](images/clima.png)
--grupal ![](images/grupal.png)
--otros ejemplos
+- Start ![](images/start.png)  
+- Info ![](images/info.png)
+- Cambio de euros ![](images/cambio.png)
+- Clima ![](images/clima.png)
+- Grupal ![](images/grupal.png)
+- Otros ejemplos
